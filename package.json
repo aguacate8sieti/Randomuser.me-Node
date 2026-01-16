@@ -32,7 +32,7 @@
     "request": "^2.88.0",
     "request-promise-native": "^1.0.7",
     "serve-favicon": "^2.5.0",
-    "sha.js": "^2.4.5",
+    "sha.js": "^2.4.12",
     "socket.io": "^2.2.0",
     "stripe": "^4.11.0",
     "transliteration": "^2.1.7",

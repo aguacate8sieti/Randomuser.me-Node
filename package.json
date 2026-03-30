@@ -16,7 +16,7 @@
     "dayjs": "^1.11.2",
     "debug": ">=2.6.9",
     "ejs": "^2.5.7",
-    "express": "^4.17.1",
+    "express": "^4.22.1",
     "faker": "^4.1.0",
     "filesize": "^3.2.1",
     "format-number": "^2.0.1",
